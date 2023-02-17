@@ -1,4 +1,4 @@
-#run cd "c:/Users/toads/OneDrive - Choate Rosemary Hall/Python" to make this work
+#run cd "c:/Users/toads/OneDrive/Python" to make this work
 w = open("weather.txt", "r")
 
 import statistics as stats
